@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pctl.h": "c",
+        "unistd.h": "c"
+    }
+}

@@ -1,0 +1,2 @@
+command.txt是在测试输入重定向时用到的文件
+Test是实现的Shell程序
